@@ -1,0 +1,19 @@
+E:\LuuDuLieuSinhVien\#HuynhGiaThuan\CongNgheNET\Buoi02\Thuan_Buoi0\Thuan_Buoi0\bin\Debug\Thuan_Buoi0.exe.config
+E:\LuuDuLieuSinhVien\#HuynhGiaThuan\CongNgheNET\Buoi02\Thuan_Buoi0\Thuan_Buoi0\obj\Debug\Thuan_Buoi0.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\#HuynhGiaThuan\CongNgheNET\Buoi02\Thuan_Buoi0\Thuan_Buoi0\obj\Debug\Thuan_Buoi0.Form1.resources
+E:\LuuDuLieuSinhVien\#HuynhGiaThuan\CongNgheNET\Buoi02\Thuan_Buoi0\Thuan_Buoi0\obj\Debug\Thuan_Buoi0.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\#HuynhGiaThuan\CongNgheNET\Buoi02\Thuan_Buoi0\Thuan_Buoi0\obj\Debug\Thuan_Buoi0.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\#HuynhGiaThuan\CongNgheNET\Buoi02\Thuan_Buoi0\Thuan_Buoi0\bin\Debug\Thuan_Buoi0.exe
+E:\LuuDuLieuSinhVien\#HuynhGiaThuan\CongNgheNET\Buoi02\Thuan_Buoi0\Thuan_Buoi0\bin\Debug\Thuan_Buoi0.pdb
+E:\LuuDuLieuSinhVien\#HuynhGiaThuan\CongNgheNET\Buoi02\Thuan_Buoi0\Thuan_Buoi0\obj\Debug\Thuan_Buoi0.exe
+E:\LuuDuLieuSinhVien\#HuynhGiaThuan\CongNgheNET\Buoi02\Thuan_Buoi0\Thuan_Buoi0\obj\Debug\Thuan_Buoi0.pdb
+H:\Cong Nghe .NET\Lan 2\Buoi02\Thuan_Buoi0\Thuan_Buoi0\bin\Debug\Thuan_Buoi0.exe.config
+H:\Cong Nghe .NET\Lan 2\Buoi02\Thuan_Buoi0\Thuan_Buoi0\bin\Debug\Thuan_Buoi0.exe
+H:\Cong Nghe .NET\Lan 2\Buoi02\Thuan_Buoi0\Thuan_Buoi0\bin\Debug\Thuan_Buoi0.pdb
+H:\Cong Nghe .NET\Lan 2\Buoi02\Thuan_Buoi0\Thuan_Buoi0\obj\Debug\Thuan_Buoi0.csproj.AssemblyReference.cache
+H:\Cong Nghe .NET\Lan 2\Buoi02\Thuan_Buoi0\Thuan_Buoi0\obj\Debug\Thuan_Buoi0.Form1.resources
+H:\Cong Nghe .NET\Lan 2\Buoi02\Thuan_Buoi0\Thuan_Buoi0\obj\Debug\Thuan_Buoi0.Properties.Resources.resources
+H:\Cong Nghe .NET\Lan 2\Buoi02\Thuan_Buoi0\Thuan_Buoi0\obj\Debug\Thuan_Buoi0.csproj.GenerateResource.cache
+H:\Cong Nghe .NET\Lan 2\Buoi02\Thuan_Buoi0\Thuan_Buoi0\obj\Debug\Thuan_Buoi0.csproj.CoreCompileInputs.cache
+H:\Cong Nghe .NET\Lan 2\Buoi02\Thuan_Buoi0\Thuan_Buoi0\obj\Debug\Thuan_Buoi0.exe
+H:\Cong Nghe .NET\Lan 2\Buoi02\Thuan_Buoi0\Thuan_Buoi0\obj\Debug\Thuan_Buoi0.pdb
