@@ -48,6 +48,7 @@
     <Compile Include="Bai3.cs" />
     <Compile Include="Bai4.cs" />
     <Compile Include="Bai5.cs" />
+    <Compile Include="Bai6.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

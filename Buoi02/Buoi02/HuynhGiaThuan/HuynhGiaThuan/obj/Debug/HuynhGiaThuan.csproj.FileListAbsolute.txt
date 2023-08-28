@@ -12,3 +12,10 @@ D:\DaiHoc\CongNghe.net\Buoi02\Buoi02\HuynhGiaThuan\HuynhGiaThuan\obj\Debug\Huynh
 D:\DaiHoc\CongNghe.net\Buoi02\Buoi02\HuynhGiaThuan\HuynhGiaThuan\obj\Debug\HuynhGiaThuan.csproj.CoreCompileInputs.cache
 D:\DaiHoc\CongNghe.net\Buoi02\Buoi02\HuynhGiaThuan\HuynhGiaThuan\obj\Debug\HuynhGiaThuan.exe
 D:\DaiHoc\CongNghe.net\Buoi02\Buoi02\HuynhGiaThuan\HuynhGiaThuan\obj\Debug\HuynhGiaThuan.pdb
+H:\Cong Nghe .NET\Lan 2\Git\netLan2\Buoi02\Buoi02\HuynhGiaThuan\HuynhGiaThuan\bin\Debug\HuynhGiaThuan.exe.config
+H:\Cong Nghe .NET\Lan 2\Git\netLan2\Buoi02\Buoi02\HuynhGiaThuan\HuynhGiaThuan\bin\Debug\HuynhGiaThuan.exe
+H:\Cong Nghe .NET\Lan 2\Git\netLan2\Buoi02\Buoi02\HuynhGiaThuan\HuynhGiaThuan\bin\Debug\HuynhGiaThuan.pdb
+H:\Cong Nghe .NET\Lan 2\Git\netLan2\Buoi02\Buoi02\HuynhGiaThuan\HuynhGiaThuan\obj\Debug\HuynhGiaThuan.csproj.AssemblyReference.cache
+H:\Cong Nghe .NET\Lan 2\Git\netLan2\Buoi02\Buoi02\HuynhGiaThuan\HuynhGiaThuan\obj\Debug\HuynhGiaThuan.csproj.CoreCompileInputs.cache
+H:\Cong Nghe .NET\Lan 2\Git\netLan2\Buoi02\Buoi02\HuynhGiaThuan\HuynhGiaThuan\obj\Debug\HuynhGiaThuan.exe
+H:\Cong Nghe .NET\Lan 2\Git\netLan2\Buoi02\Buoi02\HuynhGiaThuan\HuynhGiaThuan\obj\Debug\HuynhGiaThuan.pdb

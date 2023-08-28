@@ -18,43 +18,39 @@ namespace HuynhGiaThuan
             this.MaHang = mahang; }
         public void setTenHang(string tenhang)
         {
-            if (tenhang != null)
+
+            if (!tenhang.Trim().Equals(""))
             {
                 this.TenHang = tenhang;
             }
-            else {
-                tenhang = "xxx";
+            else
+            {
+                this.TenHang = ("xxx");
             }
-           
-            
         }
-        public void setDonGia(double dongia) { this.DonGia = dongia; }
+        public void setDonGia(double dongia) {
+
+            if (dongia >= 0)
+            {
+                this.DonGia = dongia;
+            }
+            else {
+                this .DonGia = 0;
+            }
+        }
         public void setNSX(DateTime nsx) { this.NgaySanXuat = nsx; }
         public void setNHH(DateTime nhh) { this.NgayHetHan = nhh; }
         public void setGhiChu(string ghichu) { this.GhiChu = ghichu; }
-        
-
 
         public int getMahang() { return MaHang; }
-        public string getTenHang() {  return TenHang; }
+        public string getTenHang() 
+        {
+            return TenHang; 
+              
+        }
         public double getDonGia() { return DonGia; }
         public DateTime getNSX() { return NgaySanXuat; }
         public DateTime getNHH() { return NgayHetHan; }
-
-
-
-        public bool checkMH() 
-
-        {
-            if (MaHang == null)
-            { 
-                return false;
-            }
-            return true;
-        }
-
-
-      
 
 
     }

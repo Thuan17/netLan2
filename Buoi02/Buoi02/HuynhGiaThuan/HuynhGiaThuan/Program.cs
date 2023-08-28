@@ -44,7 +44,7 @@ namespace HuynhGiaThuan
                 case 3:
                     
                     Bai3 bai3 = new Bai3(2000, "Thuan", 9, 8);
-                    Bai3 bai5 = new Bai3(2000, "Thuan", 9, 8);
+                    Bai3 baix = new Bai3(2000, "Thuan", 9, 8);
                     Console.WriteLine("Bai", x);
                     Console.WriteLine("Nhap Sv 03");
                     Console.WriteLine("Nhap MSSV 03");
@@ -60,7 +60,7 @@ namespace HuynhGiaThuan
                     double diemTH = Convert.ToDouble(Console.ReadLine());
                     bai3.setDiemTH(diemTH);
                     Console.WriteLine("Thong Tin");
-                    Console.WriteLine(Convert.ToString(bai5.MSSV) + "\t" + bai5.HoTen + "\t" + bai5.DiemTH + "\t" + bai5.DiemLT + "\t"+bai5.DiemTB());
+                    Console.WriteLine(Convert.ToString(baix.MSSV) + "\t" + baix.HoTen + "\t" + baix.DiemTH + "\t" + baix.DiemLT + "\t"+ baix.DiemTB());
                     Console.WriteLine(bai3.GetMssv()+"\t"+bai3.GetHoTen() + "\t" + bai3.GetDiemLT() + "\t" + bai3.GetDiemTH() + "\t" + bai3.DiemTB());
                     break;
                 case 4:
@@ -88,17 +88,21 @@ namespace HuynhGiaThuan
                     }
                     break; 
                 case 5:
-                    Bai5 bai6 = new Bai5();
+                    Bai5 bai5 = new Bai5();
                     Console.WriteLine("Kho Hang");
                     string ten= Console.ReadLine();
-                  
-                    bai6.setTenHang(ten);
+                    double gia = Convert.ToDouble(Console.ReadLine());
+
+                    
+                    bai5.setTenHang(ten);
                     Console.WriteLine("Ten Hang");
 
 
-                    Console.WriteLine(bai6.getTenHang());
+                    Console.WriteLine(bai5.getTenHang());
 
-
+                    bai5.setDonGia(gia);
+                    Console.WriteLine("Gia Hang");
+                    Console.WriteLine(bai5.getDonGia());
                     break;
              
             }
